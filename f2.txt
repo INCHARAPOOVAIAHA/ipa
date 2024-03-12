@@ -1,3 +1,6 @@
 this is file 2
 happy 
 coding
+live
+love
+life
